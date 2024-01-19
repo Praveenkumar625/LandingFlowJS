@@ -1,14 +1,16 @@
+## JavaScript Interactivity:** The website leverages JavaScript to create an interactive and dynamic user experience. JavaScript is employed to handle the slider functionality, allowing smooth transitions between artworks as users navigate through the portfolio.
 
+## Key Features
 
-#JavaScript Interactivity: The website leverages JavaScript to create an interactive and dynamic user experience. JavaScript is employed to handle the slider functionality, allowing smooth transitions between artworks as users navigate through the portfolio.This repository contains the source code for the Vertical Slide web application,
+1. **Slider Presentation:** Artworks are presented in a slider format, allowing users to navigate through different pieces seamlessly.
 
+2. **Captivating Visuals:** The right-slide section features a dynamic display of images, providing a visual representation of Karthik Iyer's artistic talents.
 
-The live version of the Vertical Slide web app can be accessed at https://verticalslide.vercel.app/.
+3. **Expressive Captions:** Thoughtful captions accompany each artwork, enhancing the viewer's understanding and inviting contemplation.
 
+4. **Interactive Navigation:** Users can navigate the slider using arrow buttons, making the exploration of the art collection intuitive.
 
+## Live Demo
 
-
-
-
-
+The live version of the "Karthik Arts" portfolio can be accessed at [https://karthik-arts.vercel.app/](https://karthik-arts.vercel.app/).
 
