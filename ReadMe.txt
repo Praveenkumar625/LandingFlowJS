@@ -12,5 +12,5 @@
 
 ## Live Demo
 
-The live version of the "Karthik Arts" portfolio can be accessed at [https://karthik-arts.vercel.app/](https://karthik-arts.vercel.app/).
+The live version of the "Karthik Arts" portfolio can be accessed at https://vertical-slide.vercel.app/.
 
